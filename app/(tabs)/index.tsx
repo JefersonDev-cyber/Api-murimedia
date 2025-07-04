@@ -52,7 +52,7 @@ export default function HomeScreen() {
           <ThemedText type="defaultSemiBold">app-example</ThemedText>.
         </ThemedText>
         <ThemedText style={Cuadro.container}>
-          {"Hola"}
+          {"Hola mas texto"}
         </ThemedText>
       </ThemedView>
     </ParallaxScrollView>
